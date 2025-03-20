@@ -30,15 +30,15 @@ Make sure you have the following installed:
 
 ## 🚀 Projects & Experiments  
 
-🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-1)**  
-🔹 **[EXP-2: Binary Classification WebApp](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-2)**  
-🔹 **[EXP-3: Python Logging with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-3)**  
-🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-4)**  
-🔹 **[EXP-5: MySQL Docker Container](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-5)**  
-🔹 **[EXP-6: Docker Network Experiment](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-6)**  
-🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-7)**  
-🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-8)**  
-🔹 **[EXP-9: Minikube with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-9)**  
+🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-1)**  
+🔹 **[EXP-2: Binary Classification WebApp](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-2)**  
+🔹 **[EXP-3: Python Logging with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-3)**  
+🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-4)**  
+🔹 **[EXP-5: MySQL Docker Container](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-5)**  
+🔹 **[EXP-6: Docker Network Experiment](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-6)**  
+🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-7)**  
+🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-8)**  
+🔹 **[EXP-9: Minikube with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**  
 
 ---
 
@@ -49,7 +49,7 @@ Make sure you have the following installed:
 docker build -t streamlit-spiral .  
 docker run -p 8501:8501 streamlit-spiral  
 ```
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-1)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-1)**  
 
 ---
 
@@ -60,7 +60,7 @@ docker run -p 8501:8501 streamlit-spiral
 docker build -t binary-classifier .  
 docker run -p 8501:8501 binary-classifier  
 ```
-🔗 **[View Project Code](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-2)**  
+🔗 **[View Project Code](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-2)**  
 
 ---
 
@@ -71,43 +71,43 @@ docker run -p 8501:8501 binary-classifier
 docker build -t python-logging .  
 docker run python-logging  
 ```
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-3)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-3)**  
 
 ---
 
 ### 🌟 **Streamlit + PostgreSQL**  
 📌 **Description:** Connect **Streamlit with PostgreSQL database** inside a **Docker container**.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-4)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-4)**  
 
 ---
 
 ### 🌟 **MySQL Docker Container**  
 📌 **Description:** Deploy a **MySQL database container** and connect it to applications.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-5)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-5)**  
 
 ---
 
 ### 🌟 **Docker Network Experiment**  
 📌 **Description:** Understand **networking in Docker** by connecting multiple containers.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-6)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-6)**  
 
 ---
 
 ### 🌟 **ML Model Deployment with Evidently**  
 📌 **Description:** Deploy an ML model with **Evidently AI** inside a Docker container.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-7)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-7)**  
 
 ---
 
 ### 🌟 **Deploying on AWS EC2**  
 📌 **Description:** Deploy **Dockerized applications** on an **AWS EC2 instance**.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-8)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-8)**  
 
 ---
 
 ### 🌟 **Minikube with Docker**  
 📌 **Description:** Run **Kubernetes locally** using Minikube with Docker.  
-🔗 **[View Project](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-9)**  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**  
 
 ---
 
