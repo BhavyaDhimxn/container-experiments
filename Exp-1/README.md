@@ -32,7 +32,7 @@ Clone the repository to your local machine by running:
 ```bash
 git clone https://github.com/BhavyaDhimxn/container-experiments.git
 
-cd Docker_Practices
+cd container-experiments
 ```
 
 ### Step 2: **Create a `requirements.txt` File**

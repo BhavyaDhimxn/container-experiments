@@ -48,8 +48,8 @@ Follow the steps below to get the app up and running in your local environment.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/BhavyaDhimxn/Docker_Practices.git
-cd Docker_Practices/Exp-2
+git clone https://github.com/BhavyaDhimxn/container-experiments.git
+cd container-experiments/Exp-2
 ```
 
 ### Step 2: Build the Docker Image

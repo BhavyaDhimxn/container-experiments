@@ -92,4 +92,4 @@ Here is a screenshot of the experiment in action:
 ---
 
 ## 📢 Author
-👤 [Aditya Raj](https://github.com/BhavyaDhimxn)
+👤 [Bhavya Dhiman](https://github.com/BhavyaDhimxn)
