@@ -38,7 +38,8 @@ Make sure you have the following installed:
 🔹 **[EXP-6: Docker Network Experiment](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-6)**  
 🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-7)**  
 🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-8)**  
-🔹 **[EXP-9: Minikube with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**  
+🔹 **[EXP-9: Minikube with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**
+🔹 **[EXP-10: Docker Bake](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)**  
 
 ---
 
@@ -108,6 +109,13 @@ docker run python-logging
 ### 🌟 **Minikube with Docker**  
 📌 **Description:** Run **Kubernetes locally** using Minikube with Docker.  
 🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**  
+
+---
+
+### 🌟 **Docker Bake**  
+📌 **Description:** A **Docker Bake** implementation.  
+
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)** 
 
 ---
 
