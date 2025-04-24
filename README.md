@@ -28,19 +28,31 @@ Make sure you have the following installed:
 
 ---
 
-## 🚀 Projects & Experiments  
+## 🚀 Projects & Experiments
 
-🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-1)**  
-🔹 **[EXP-2: Binary Classification WebApp](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-2)**  
-🔹 **[EXP-3: Python Logging with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-3)**  
-🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-4)**  
-🔹 **[EXP-5: MySQL Docker Container](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-5)**  
-🔹 **[EXP-6: Docker Network Experiment](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-6)**  
-🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-7)**  
-🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-8)**  
-🔹 **[EXP-9: Minikube with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**
-🔹 **[EXP-10: Docker Bake](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)**  
+Here are some exciting projects and experiments you can explore:
 
+🔷 1. **[Streamlit Spiral Visualization](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-1)**: A Dockerized Streamlit app to generate interactive spiral patterns.
+
+2. **[Binary Classification WebApp](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-2)**: A Streamlit-based ML app for binary classification using Logistic Regression.
+
+3. **[Python Logging with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-3)**: Demonstrates best practices for logging inside a Dockerized Python environment.
+
+4. **[Streamlit + PostgreSQL](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-4)**: Connect Streamlit with PostgreSQL database inside a Docker container.
+
+5. **[MySQL Docker Container](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-5)**: Deploy a MySQL database container and connect it to applications.
+
+6. **[Docker Network Experiment](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-6)**: Understand networking in Docker by connecting multiple containers.
+
+7. **[ML Model Deployment with Evidently](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-7)**: Deploy an ML model with Evidently AI inside a Docker container.
+
+8. **[Deploying on AWS EC2](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-8)**: Deploy Dockerized applications on an AWS EC2 instance.
+
+9. **[Minikube with Docker](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-9)**: Run Kubernetes locally using Minikube with Docker.
+
+10. **[Docker Bake](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)**: A Docker Bake implementation.
+
+Feel free to explore these projects and experiments to learn more about Docker and its applications in software development and cloud deployments.
 ---
 
 ### 🌟 **Spiral Visualization**  
