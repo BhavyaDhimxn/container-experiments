@@ -36,7 +36,7 @@ Open PowerShell and run:
 packer --version
 ```
 ✅ If successful, the Packer version will be displayed.
-![img](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/1.png)
+![Image](https://github.com/user-attachments/assets/f7c29313-1c60-46b3-b93b-f6c51171b7fc)
 
 ### 1.2 Install AWS CLI
 #### Step 1: Download AWS CLI
@@ -50,7 +50,7 @@ packer --version
   aws --version
   ```
   ✅ If successful, it should display something like: `aws-cli/2.x.x Windows/10`
-![img2](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/2.png)
+![Image](https://github.com/user-attachments/assets/3ffbc5fb-f840-4d20-a08e-cc052c95dcdb)
 
 ### 1.3 Configure AWS CLI (5 minutes)
 Run the following command in PowerShell:
@@ -63,7 +63,7 @@ Enter the following when prompted:
 - **Default region name:** `us-east-1` (or your preferred region)
 - **Default output format:** `json` (Press Enter)
 ✅ AWS CLI is now configured.
-![img3](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/3.png)
+![Image](https://github.com/user-attachments/assets/e87ac149-fc1a-4f32-9b14-7a3a397566f8)
 
 ## Step 2: Create the Packer Template
 
@@ -116,7 +116,7 @@ source "amazon-ebs" "python39" {
   source_ami = "ami-xxxxxxxxxxxxxxx"  # Replace with actual AMI ID
 }
 ```
-![img4](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/4.png)
+![Image](https://github.com/user-attachments/assets/624b4449-fffa-461a-b819-dbda5cd5a668)
 
 ## Step 3: Validate and Build the Image
 
@@ -134,14 +134,14 @@ Validate the template:
 packer validate bakery.pkr.hcl
 ```
 ✅ Expected Output: `The configuration is valid.`
-![img5](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/5.png)
+![Image](https://github.com/user-attachments/assets/0e88a287-5ae0-4d99-bb41-79e3c3f317d4)
 
 ### 3.2 Build the Machine Image
 Run the following command:
 ```powershell
 packer build bakery.pkr.hcl
 ```
-![img6](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/6.png)
+![Image](https://github.com/user-attachments/assets/1be5bf7b-c58e-4f43-b8f8-f4526226e24f)
 
 This will:
 - Create a temporary EC2 instance.
@@ -155,7 +155,7 @@ This will:
 1. Log in to [AWS Console](https://aws.amazon.com/console/).
 2. Navigate to **EC2 → AMIs** (Set the region you used when creating the AMI).
 3. Find the AMI named: `bakery-foundation-python39-timestamp`
-![img7](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/7.png)
+<img width="737" alt="Image" src="https://github.com/user-attachments/assets/90b8bac1-0efd-4a2b-bef5-8c78fa2319b4" />
 
 ### 4.2 Launch an EC2 Instance with Your AMI
 1. Go to **AWS EC2 Console**: [AWS EC2 Dashboard](https://console.aws.amazon.com/ec2/).
@@ -166,7 +166,7 @@ This will:
    - **Key Pair:** Use an existing key or create a new one.
    - **Security Group:** Allow **SSH (port 22)** and other required ports.
 5. Click **Launch! 🚀**
-![img8](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/8.png)
+<img width="736" alt="Image" src="https://github.com/user-attachments/assets/2e453c09-37ad-4829-a349-46abcf2f45ca" />
 
 ### 4.3 Connect to the Instance
 1. Get the Public IP from the EC2 Console.
@@ -174,7 +174,7 @@ This will:
    ```powershell
    ssh -i "C:\path\to\your-key.pem" ubuntu@your-instance-ip
    ```
-   ![img9](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/9.png)
+   ![Image](https://github.com/user-attachments/assets/f106a887-5bd7-471d-8c9e-dea970c94851)
    
 4. Accept the SSH key fingerprint (First Time Only): Type `yes` and press Enter.
 ✅ You are now logged into your EC2 instance! 🎉
@@ -185,7 +185,7 @@ Once inside the instance, run:
 python3.9 --version
 ```
 ✅ Expected Output: `Python 3.9.5`
-![img10](https://github.com/vidhi-jaju/DockSpace/blob/ed97e514d1e8e008d7d19cb1706d21c35c4db923/13.%20Bakery%20Foundation%20Example%20on%20Windows/images/10.png)
+![Image](https://github.com/user-attachments/assets/4355147f-e336-469c-9af0-2594d32f6200)
 
 
 ### Understanding Python Versions on Ubuntu  
