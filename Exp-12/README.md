@@ -63,7 +63,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Vidhi Jaju"
+    return "Bhavya Dhiman"
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)
@@ -117,7 +117,6 @@ docker build -t backend-service ./backend-service
 docker build -t api-gateway ./api-gateway
 ```
 <img width="1102" alt="Image" src="https://github.com/user-attachments/assets/ff8196c2-8189-43d0-ae73-543e4ca5eda2" />
-
 <img width="1105" alt="Image" src="https://github.com/user-attachments/assets/78808fe4-0563-4b68-86f5-03a123764bcd" />
 
 Verify the built images:
