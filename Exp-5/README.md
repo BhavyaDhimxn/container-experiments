@@ -1,6 +1,4 @@
-_____
-
-# 🐳 MySQL Docker Container  
+# 🚀 Docker Experiment 5: 🐳 MySQL Docker Container   
 
 This repository contains a **Docker setup** for running a **MySQL container** with an initial database setup.  
 

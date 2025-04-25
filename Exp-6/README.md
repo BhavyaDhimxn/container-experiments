@@ -1,4 +1,4 @@
-# 🚀 Docker Network Experiment
+# 🚀 Docker Experiment 6: Docker Network Experiment  
 
 This repository demonstrates how to create and test a custom Docker network (net-bridge) with multiple containers for seamless inter-container communication. The experiment showcases how containers can communicate within a user-defined bridge network.
 

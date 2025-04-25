@@ -1,4 +1,4 @@
-# 🚀 ML Model with Evidently - Dockerized Streamlit App
+# 🚀 Docker Experiment 7: ML Model with Evidently - Dockerized Streamlit App
 
 ## 📌 Overview
 This repository contains a **Dockerized Streamlit application** for running an ML model with **Evidently AI**. The setup ensures seamless deployment and execution of the model within a containerized environment.

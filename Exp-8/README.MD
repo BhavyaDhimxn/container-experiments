@@ -1,4 +1,4 @@
-# 🚀 Deploying a Dockerized Application on AWS EC2  
+# 🚀 Docker Experiment 8: Deploying a Dockerized Application on AWS EC2  
 
 This guide walks through deploying an application on **AWS EC2** using **Docker**. Follow the steps below to set up the environment, transfer files, build the Docker image, and run the application.  
 

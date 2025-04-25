@@ -1,4 +1,4 @@
-# Docker Experiment 2: Binary Classification WebApp with Streamlit
+# 🚀 Docker Experiment 2: Binary Classification WebApp with Streamlit
 
 Welcome to **Docker Experiment 2**! This project demonstrates the power of **Docker** to containerize a **machine learning web application** built using **Streamlit**. The app classifies mushrooms as either **edible** or **poisonous** based on input features, utilizing machine learning classifiers.
 

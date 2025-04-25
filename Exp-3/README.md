@@ -1,6 +1,4 @@
----
-
-# 🐍 Python Logging Application with Docker
+# 🚀 Docker Experiment 3: 🐍 Python Logging Application with Docker
 
 This project demonstrates how to create a Python application that logs data continuously to a file and runs inside a Docker container. The logs are stored in a Docker volume, ensuring persistence even after the container is stopped or removed.
 
