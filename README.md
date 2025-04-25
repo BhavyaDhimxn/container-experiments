@@ -52,7 +52,10 @@ Here are some exciting projects and experiments you can explore:
 
 🔷 **[Docker Bake](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)**: A Docker Bake implementation.
 
-Feel free to explore these projects and experiments to learn more about Docker and its applications in software development and cloud deployments.
+🔷 **[Titanic Survival Predictor](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-11)**: A machine learning application that predicts whether a passenger would have survived the Titanic disaster
+
+🔷 **[Microservices Architecture with Docker Swarm ⚓](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-12)**: how to deploy a microservices architecture using Docker Swarm
+
 ---
 
 ### 🌟 **Spiral Visualization**  
@@ -130,6 +133,16 @@ docker run python-logging
 🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-10)** 
 
 ---
+
+### 🌟 **Titanic Survival Predictor**  
+📌 **Description:** The **Titanic Survival Prediction Model** is a machine learning application that predicts whether a passenger would have survived the Titanic disaster based on various input features.   
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-11)**  
+
+---
+
+### 🌟 **Microservices Architecture with Docker Swarm ⚓**  
+📌 **Description:** This guide explains how to deploy a microservices architecture using **Docker Swarm**, featuring an **API Gateway** and a **Backend Service**.  
+🔗 **[View Project](https://github.com/BhavyaDhimxn/container-experiments/tree/main/Exp-12)**  
 
 ## 📚 Learning Resources  
 
