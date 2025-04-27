@@ -83,10 +83,6 @@ ping cont_database
 ## 🏁 Conclusion
 This experiment highlights Docker's networking capabilities, demonstrating inter-container communication via a custom bridge network. Understanding Docker networking is crucial for deploying microservices and containerized applications efficiently.
 
-## 📸 Docker Network Connectivity Test
-Here is a screenshot of the experiment in action:
-
-![Docker Ping Test](docker-ping-test.jpg)
 
 ✅ The above image shows successful container communication via ping.
 ---
